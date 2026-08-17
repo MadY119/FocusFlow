@@ -20,4 +20,4 @@ For today's project, I built FocusFlow, a beautifully designed Pomodoro timer an
 ## 🚀 How to run it locally
 1. Clone this repo:
    ```bash
-   git clone [https://github.com/MadY119/focus-flow.git](https://github.com/MadY119/focus-flow.git)
+   git clone [https://github.com/MadY119/focus-flow.git](https://github.com/MadY119/focusflow.git)
